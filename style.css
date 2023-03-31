@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
 
 body{
-    background-image: url(/Media/film.png);
+    background-color: #000000;
     background-repeat: no-repeat;
     background-size: cover;
 }
