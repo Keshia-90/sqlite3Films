@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+body{
+    background-image: url(/Media/film.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 80px;
+    color: rgb(249, 249, 249);
+    text-decoration: underline;
+    text-align: center;
+    text-shadow:  0 1px 0 #000000,
+    0 2px 0 #000000,
+    0 3px 0 #000000,
+    0 4px 0 #000000,
+    0 5px 0 #000000,
+    0 6px 1px rgba(0,0,0,.1),
+    0 0 5px rgba(0,0,0,.1),
+    0 1px 3px rgba(0,0,0,.3),
+    0 3px 5px rgba(0,0,0,.2),
+    0 5px 10px rgba(0,0,0,.25),
+    0 10px 10px rgba(0,0,0,.2),
+    0 20px 20px rgba(0,0,0,.15);
+}
+
+iframe{
+    border-style: double;
+    border-width: 10px;
+    border-radius: 2px;
+    border-color: white;
+    margin-top: -3%;
+    margin-left: 30%;
+}
